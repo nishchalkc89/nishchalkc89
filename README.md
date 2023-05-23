@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishchalkc89
+- 👋 Hi, I’m nishchalkc
 - 👀 I’m interested in artificial intelligence, software development , cybersecurity 
 - 🌱 I’m currently learning computer science engineering at sharda University 
 - 💞️ I’m looking to collaborate on project related to securing computer systems .This could involve analyzing vulnerabilities, implementing security measures, or developing secure software solutions.
