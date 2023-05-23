@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nishchalkc
+- 👋 Hi, I’m Nishchal kc.
 - 👀 I’m interested in artificial intelligence, software development, cybersecurity .
 - 🌱 I’m currently persuing computer science engineering at sharda University.
 - 💞️ I’m looking to collaborate on project related to securing computer systems .This could involve analyzing vulnerabilities, implementing security measures, or developing secure software solutions.
