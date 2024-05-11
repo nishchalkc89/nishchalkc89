@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently persuing **computer science engineering at sharda universityat s**
+- 🌱 I’m currently persuing **computer science engineering at sharda university**
 
 - 👯 I’m looking to collaborate on project on **related to securing computer systems .This could involve analyzing vulnerabilities, implementing security measures, or developing secure software solutions.**
 
