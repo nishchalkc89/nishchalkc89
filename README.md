@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on project on **related to securing computer systems .This could involve analyzing vulnerabilities, implementing security measures, or developing secure software solutions.**
 
-- 👨‍💻 All of my projects are available at [www.nishchalkc.com.np](www.nishchalkc.com.np)
+- 👨‍💻 All of my projects are available at [https://nishchalkc.com.np/](https://nishchalkc.com.np/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@nishchalkc](https://hashnode.com/@nishchalkc)
 
