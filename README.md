@@ -107,7 +107,6 @@
 
 <p align="center"><img src="https://nishchalkc.com.np/readme/divider.svg" alt="" width="100%" /></p>
 
-## 📊 GitHub stats
 
 ## 📊 GitHub stats
 
@@ -116,4 +115,8 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nishchalkc89&theme=tokyonight&hide_border=true" alt="GitHub contribution streak of Nishchal KC" />
+</p>
+
+<p align="center">
+  <img src="https://nishchalkc.com.np/readme/contributions.svg" alt="Contribution calendar of Nishchal KC: 671 contributions in the last year" width="100%" />
 </p>
