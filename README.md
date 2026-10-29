@@ -14,7 +14,7 @@
 
 - 🔭 Currently building **full-stack and blockchain products** as a freelancer
 
-- 🎓 Completed **B.Tech in Computer Science & Engineering at Sharda University**
+- 🎓 Completed **B.Tech in Computer Science & Engineering with specialization on Blockchain at Sharda University**
 
 - 👯 Open to collaborating on **blockchain, web apps and secure software**, including analysing vulnerabilities, implementing security measures and developing secure software solutions
 
