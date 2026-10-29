@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NISHCHAL KC</h1>
-<h3 align="center">A passionate Frontend developer, Networking and Cybersecurity Enthusiast from Nepal</h3>
+<h3 align="center">Blockchain Engineer & Full-Stack Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishchalkc89&label=Profile%20views&color=0e75b6&style=flat" alt="nishchalkc89" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@nishchalkc](https://hashnode.com/@nishchalkc)
 
-- 📫 How to reach me **nishchalkc370@gmail.com**
+- 📫 How to reach me **info@nishchalkc.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
