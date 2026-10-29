@@ -109,18 +109,11 @@
 
 ## 📊 GitHub stats
 
+## 📊 GitHub stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishchalkc89&theme=tokyonight" alt="GitHub profile details of Nishchal KC" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishchalkc89&theme=tokyonight" alt="Repositories per language of Nishchal KC" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishchalkc89&theme=tokyonight" alt="Most used languages of Nishchal KC" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishchalkc89&theme=tokyonight" alt="GitHub stats of Nishchal KC" width="49%" />
+  <img src="https://nishchalkc.com.np/readme/stats.svg" alt="GitHub stats of Nishchal KC: repositories, stars, followers and most used languages" width="100%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nishchalkc89&theme=tokyonight&hide_border=true" alt="GitHub contribution streak of Nishchal KC" />
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/nishchalkc"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=050a14" alt="Buy Nishchal KC a coffee" /></a>
 </p>
